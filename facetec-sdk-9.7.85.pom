@@ -4,6 +4,6 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>idenfy</groupId>
   <artifactId>facetec-sdk</artifactId>
-  <version>9.7.84</version>
+  <version>9.7.85</version>
   <packaging>aar</packaging>
 </project>
